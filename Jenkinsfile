@@ -6,6 +6,7 @@ pipeline {
                echo "Building Artifact"
                echo  "testing"
                
+
            }
        }
       stage('Deploy Code') {
