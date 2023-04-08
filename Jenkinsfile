@@ -11,7 +11,9 @@ pipeline {
       stage('Deploy Code') {
           steps {
                echo "Deploying Code"
+               echo "welcome"
           }
+
       }
    }
 }
