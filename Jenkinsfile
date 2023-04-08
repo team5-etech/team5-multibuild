@@ -5,7 +5,7 @@ pipeline {
            steps {
                echo "Building Artifact"
                echo  "testing"
-               
+              
            }
        }
       stage('Deploy Code') {
@@ -13,7 +13,7 @@ pipeline {
                echo "Deploying Code"
                echo "welcome"
           }
-
+          }
       }
    }
 }
