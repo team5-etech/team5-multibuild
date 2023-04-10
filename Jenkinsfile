@@ -10,7 +10,7 @@ pipeline {
       stage('Deploy Code') {
           steps {
                echo "Deploying Code"
-               echo "welcome-etech
+               echo "welcome-etech"
 
             }
           }      
